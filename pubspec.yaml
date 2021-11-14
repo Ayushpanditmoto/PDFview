@@ -24,9 +24,9 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
-  plugin:
-    androidPackage: com.pycampers.flutterpdfviewer
-    pluginClass: FlutterPdfViewerPlugin
+  # plugin:
+  #   androidPackage: com.pycampers.flutterpdfviewer
+  #   pluginClass: FlutterPdfViewerPlugin
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
