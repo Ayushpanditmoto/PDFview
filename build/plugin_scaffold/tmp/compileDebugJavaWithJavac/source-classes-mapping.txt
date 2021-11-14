@@ -1,2 +1,0 @@
-com/pycampers/plugin_scaffold/BuildConfig.java
- com.pycampers.plugin_scaffold.BuildConfig

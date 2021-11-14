@@ -1,5 +1,0 @@
-C:\Users\Ayush\Desktop\Flutter projects\flutter_pdf_viewer\android\src\main\kotlin\com\pycampers\flutterpdfviewer\FlutterPdfViewerPlugin.kt
-C:\Users\Ayush\Desktop\Flutter projects\flutter_pdf_viewer\android\src\main\kotlin\com\pycampers\flutterpdfviewer\PdfActivity.kt
-C:\Users\Ayush\Desktop\Flutter projects\flutter_pdf_viewer\android\src\main\kotlin\com\pycampers\flutterpdfviewer\PdfActivityThread.kt
-C:\Users\Ayush\Desktop\Flutter projects\flutter_pdf_viewer\android\src\main\kotlin\com\pycampers\flutterpdfviewer\PlayerController.kt
-C:\Users\Ayush\Desktop\Flutter projects\flutter_pdf_viewer\android\src\main\kotlin\com\pycampers\flutterpdfviewer\util.kt

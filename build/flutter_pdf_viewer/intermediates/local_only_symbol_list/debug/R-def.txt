@@ -1,9 +1,0 @@
-R_DEF: Internal format may change without notice
-local
-drawable player_close_btn
-id closeButton
-id pdfView
-id playerView
-id progress_overlay
-layout pdf_viewer_layout
-string close
